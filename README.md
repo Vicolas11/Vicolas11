@@ -50,3 +50,9 @@ Here are some ideas to get you started:
 ## Contact Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/am_vicolas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicolas-akoh/)
+
+## Projects
+|  |  |  |
+| :--- | :--- | :--- |
+| [![elogbook](https://user-images.githubusercontent.com/46172140/226142698-0badee98-310e-41fd-97c3-2bfd1bc87c2b.jpg)](https://elogbook.vercel.app/) | [![lenqre](https://user-images.githubusercontent.com/46172140/226142776-8d92beac-96f8-4f97-8255-179622526fec.jpg)](https://victor-akoh-lendsqr-fe-test.vercel.app/) | [![CyberHomeView (2)](https://user-images.githubusercontent.com/46172140/226143512-42dcb155-d56a-479c-be3e-8834e1d0a929.jpg)](https://cyberbullying.onrender.com/) |
+| **LOGIN INFO** <br/> **ADMIN:** admin@email.com <br/> **Password:** admin <br/> **STUDENT:** puritymatt@email.com <br/> **Password:** 123456789 <br/> **COORDINATOR:** fatiozaochapa@ful.edu.ng <br/> **Password:** 123456789 <br/> **SUPERVISOR:** fredrickbar@ful.edu.ng <br/> **Password:** 123456789 <br/> **ORGANISATION:** nhubfoundation@nhub.org <br/> **Password:** 123456789 | Input random email and password to login | Input Tweets |
