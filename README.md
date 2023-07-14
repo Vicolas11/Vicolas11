@@ -52,7 +52,12 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicolas-akoh/)
 
 ## Projects
-| eLogbook | Lendsqr Test App | Cyberbullying Detection App |
-| :--- | :--- | :--- |
-| [![elogbook](https://user-images.githubusercontent.com/46172140/226142698-0badee98-310e-41fd-97c3-2bfd1bc87c2b.jpg)](https://elogbook.vercel.app/) | [![lenqre](https://user-images.githubusercontent.com/46172140/226142776-8d92beac-96f8-4f97-8255-179622526fec.jpg)](https://victor-akoh-lendsqr-fe-test.vercel.app/) | [![CyberHomeView (2)](https://user-images.githubusercontent.com/46172140/226143512-42dcb155-d56a-479c-be3e-8834e1d0a929.jpg)](https://cyberbullying.onrender.com/) |
-| **LOGIN INFO** <br/> **LINK:** https://elogbook.vercel.app/admin <br/> **ADMIN:** admin@email.com <br/> **Password:** admin <br/> **STUDENT:** puritymatt@email.com <br/> **Password:** 123456789 <br/> **COORDINATOR:** fatiozaochapa@ful.edu.ng <br/> **Password:** 123456789 <br/> **SUPERVISOR:** fredrickbar@ful.edu.ng <br/> **Password:** 123456789 <br/> **ORGANISATION:** nhubfoundation@nhub.org <br/> **Password:** 123456789 | Input random email and password to login | Input Tweets |
+| eLogbook | Lendsqr Test App |
+| :--- | :--- |
+| [![elogbook](https://user-images.githubusercontent.com/46172140/226142698-0badee98-310e-41fd-97c3-2bfd1bc87c2b.jpg)](https://elogbook.vercel.app/) | [![lenqre](https://user-images.githubusercontent.com/46172140/226142776-8d92beac-96f8-4f97-8255-179622526fec.jpg)](https://victor-akoh-lendsqr-fe-test.vercel.app/) |
+| **LOGIN INFO** <br/> **LINK:** https://elogbook.vercel.app/admin <br/> **ADMIN:** admin@email.com <br/> **Password:** admin <br/> **STUDENT:** puritymatt@email.com <br/> **Password:** 123456789 <br/> **COORDINATOR:** fatiozaochapa@ful.edu.ng <br/> **Password:** 123456789 <br/> **SUPERVISOR:** fredrickbar@ful.edu.ng <br/> **Password:** 123456789 <br/> **ORGANISATION:** nhubfoundation@nhub.org <br/> **Password:** 123456789 | Input random email and password to login |
+
+| Cyberbullying Detection App | RideSmart |
+| :--- | :--- |
+| [![CyberHomeView (2)](https://user-images.githubusercontent.com/46172140/226143512-42dcb155-d56a-479c-be3e-8834e1d0a929.jpg)](https://cyberbullying.onrender.com/) | ![Home Screen](https://github.com/Vicolas11/Vicolas11/assets/46172140/ca666adf-b461-4c0d-93da-8ef536cbc6cb) |
+| Input Tweets | Signup using matric No with this format: **FAS17CHM035** let the First three characters be alphabets, 4th & 5th characters be numbers, 6th - 8th characters be alphabets and the remaining three characters numbers. <br/><br/> **PASSENGER LOGIN INFO** <br/> **matricNo:** FAS17SIO038 <br/> **Password:** 123456789 <br/><br/> **DRIVER LOGIN INFO** <br/> **email:** lukejones@email.com  <br/> **Password:** 123456789 <br/> **email** mondaybulus@gmail.com <br/> **Password:** 123456789 |
