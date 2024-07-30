@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 | [![EmergTrack](https://github.com/Vicolas11/Vicolas11/assets/46172140/df331d63-c7f5-44ad-9503-c26cf517ed43)](https://emergtrack.vercel.app/) | [![ByteQuiz](https://github.com/Vicolas11/Vicolas11/assets/46172140/119e5809-64c2-4aac-8e9d-f84b9bb0c5cf)](https://bytequiz.vercel.app/) |
 | **Admin** <br/>**Link:** https://emergtrack.vercel.app/admin <br/>**Email:** admin@email.com <br/>**Password:** adminX   <br/><br/>**DRIVER** <br/> **Email:** davedan@email.com <br/> **Password:** 123456789 <br/><br/> **RIDER** <br/> **Email:** petersimon@email.com <br/> **Password:** 123456789 <br/><br/> **USER** <br/> **Email:** estheraudu@email.com <br/> **Password:** 123456789 | **Login Test Accounts** <br/>**Username:** vicolas@bytequiz.com <br/>**Password:** 123456 <br/><br/>**Username:** roza@bytequiz.com <br/>**Password:** 123456  |
 
-| Complaint Management System (CMS) |
-| :--- |
-| [![CMS](https://github.com/Vicolas11/Vicolas11/assets/46172140/40b87827-d979-4f4e-b684-b3e4804b65cb)](https://complaints-green.vercel.app/) |
-| **Login Details** <br/><br/>**Student Affairs Account**<br/>**Email:** incrediblechamp1@gmail.com <br/>**Password:** 123456 <br/><br/>**Student Account**<br/>**Matric Number:** SU20231212 <br/>**Password:** 123456 |
+| Complaint Management System (CMS) | Roboflow Supervision Detector |
+| :--- | :--- |
+| [![CMS](https://github.com/Vicolas11/Vicolas11/assets/46172140/40b87827-d979-4f4e-b684-b3e4804b65cb)](https://complaints-green.vercel.app/) | [![Supervision APP](https://github.com/user-attachments/assets/2533f4df-f3a2-4d97-a0b4-08263304f891)](https://supervision-teal.vercel.app/) |
+| **Login Details** <br/><br/>**Student Affairs Account**<br/>**Email:** incrediblechamp1@gmail.com <br/>**Password:** 123456 <br/><br/>**Student Account**<br/>**Matric Number:** SU20231212 <br/>**Password:** 123456 | Roboflow Supervision Object Detector is a powerful React webapp that uses Python Roboflow Supervision module for automating the process of identifying and classifying objects within images. This technology leverages advanced machine learning models and computer vision algorithms to enable users to train, evaluate, and deploy object detection models efficiently. |
