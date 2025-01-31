@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ![github-header-image (1)](https://user-images.githubusercontent.com/46172140/226135279-2e28d174-9628-42c9-a4f7-136fb1885bf7.png)
 
 ## About Me 👨🏽‍💻
-- 👋 Hi, I’m Victor Akoh, working part-time as a backend developer at Vahlid.
-- 🔭 I’m currently working on the backend of a Logistic Application.
 - 👀 I’m an Artificial intelligence and web3 enthusiast.
 - 🎓 I graduated from Federal University Lokoja, department of Computer Science.
 - 💞️ I’m looking to collaborate on full stack projects.
